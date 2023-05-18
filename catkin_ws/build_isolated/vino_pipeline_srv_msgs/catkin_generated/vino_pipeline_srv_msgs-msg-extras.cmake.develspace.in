@@ -1,0 +1,2 @@
+set(vino_pipeline_srv_msgs_MESSAGE_FILES "/home/learnlab/catkin_ws/src/ros_openvino_toolkit/vino_pipeline_srv_msgs/msg/PipelineRequest.msg;/home/learnlab/catkin_ws/src/ros_openvino_toolkit/vino_pipeline_srv_msgs/msg/Pipeline.msg;/home/learnlab/catkin_ws/src/ros_openvino_toolkit/vino_pipeline_srv_msgs/msg/Pipelines.msg")
+set(vino_pipeline_srv_msgs_SERVICE_FILES "/home/learnlab/catkin_ws/src/ros_openvino_toolkit/vino_pipeline_srv_msgs/srv/PipelineSrv.srv")

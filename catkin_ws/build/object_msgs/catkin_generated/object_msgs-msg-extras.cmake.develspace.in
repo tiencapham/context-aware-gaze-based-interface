@@ -1,0 +1,2 @@
+set(object_msgs_MESSAGE_FILES "/home/learnlab/catkin_ws/src/object_msgs/msg/Object.msg;/home/learnlab/catkin_ws/src/object_msgs/msg/Objects.msg;/home/learnlab/catkin_ws/src/object_msgs/msg/ObjectInBox.msg;/home/learnlab/catkin_ws/src/object_msgs/msg/ObjectsInBoxes.msg")
+set(object_msgs_SERVICE_FILES "/home/learnlab/catkin_ws/src/object_msgs/srv/ClassifyObject.srv;/home/learnlab/catkin_ws/src/object_msgs/srv/DetectObject.srv")

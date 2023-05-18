@@ -1,0 +1,2 @@
+openface2_ros:openface2_ros1:usb_cam:vision_opencv/cv_bridge:vision_opencv/image_geometry:vision_opencv/opencv_tests:vision_opencv/vision_opencv
+-DCATKIN_DEVEL_PREFIX=/home/learnlab/catkin_ws_openface/devel -DCMAKE_INSTALL_PREFIX=/home/learnlab/catkin_ws_openface/install -G Unix Makefiles

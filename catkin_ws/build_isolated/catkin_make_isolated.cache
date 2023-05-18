@@ -1,0 +1,2 @@
+calibration:object_msgs:openface2_ros:realsense-ros/realsense2_camera:realsense-ros/realsense2_description:ros_openvino_toolkit/vino_core_lib:ros_openvino_toolkit/vino_launch:ros_openvino_toolkit/vino_param_lib:ros_openvino_toolkit/vino_people_msgs:ros_openvino_toolkit/vino_pipeline_srv_msgs:ros_openvino_toolkit/vino_sample:vision_opencv/cv_bridge:vision_opencv/image_geometry:vision_opencv/opencv_tests:vision_opencv/vision_opencv
+-G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/home/learnlab/catkin_ws/devel_isolated -DCMAKE_INSTALL_PREFIX=/home/learnlab/catkin_ws/install_isolated

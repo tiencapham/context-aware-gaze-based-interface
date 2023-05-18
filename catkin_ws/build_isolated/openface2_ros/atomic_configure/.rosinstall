@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/learnlab/catkin_ws/devel_isolated/openface2_ros/setup.sh

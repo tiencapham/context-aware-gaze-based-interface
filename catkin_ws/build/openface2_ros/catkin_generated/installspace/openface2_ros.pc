@@ -1,0 +1,8 @@
+prefix=/home/learnlab/catkin_ws/install
+
+Name: openface2_ros
+Description: Description of openface2_ros
+Version: 1.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs sensor_msgs message_runtime geometry_msgs

@@ -1,0 +1,12 @@
+file(REMOVE_RECURSE
+  "/home/learnlab/catkin_ws/devel_isolated/vino_pipeline_srv_msgs/share/common-lisp/ros/vino_pipeline_srv_msgs/msg/Pipeline.lisp"
+  "/home/learnlab/catkin_ws/devel_isolated/vino_pipeline_srv_msgs/share/common-lisp/ros/vino_pipeline_srv_msgs/msg/PipelineRequest.lisp"
+  "/home/learnlab/catkin_ws/devel_isolated/vino_pipeline_srv_msgs/share/common-lisp/ros/vino_pipeline_srv_msgs/msg/Pipelines.lisp"
+  "/home/learnlab/catkin_ws/devel_isolated/vino_pipeline_srv_msgs/share/common-lisp/ros/vino_pipeline_srv_msgs/srv/PipelineSrv.lisp"
+  "CMakeFiles/vino_pipeline_srv_msgs_generate_messages_lisp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/vino_pipeline_srv_msgs_generate_messages_lisp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
